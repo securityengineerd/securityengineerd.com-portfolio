@@ -4,6 +4,7 @@ node_modules
 .envrc
 .env
 *.swp
+.env.example
 
 # Logs
 logs
